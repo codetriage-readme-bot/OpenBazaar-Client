@@ -5,6 +5,7 @@
 
 [![Build Status](https://travis-ci.org/OpenBazaar/OpenBazaar-Client.svg)](https://travis-ci.org/OpenBazaar/OpenBazaar-Client)
 [![Slack Status](http://slack.openbazaar.org/badge.svg)](https://openbazaar-slackin-drwasho.herokuapp.com/)
+[![Open Source Helpers](https://www.codetriage.com/openbazaar/openbazaar-client/badges/users.svg)](https://www.codetriage.com/openbazaar/openbazaar-client)
 
 You **must** be running the [OpenBazaar backend](https://github.com/OpenBazaar/OpenBazaar-Server) for the client to work! 
 If you are using a remote server (a server on a different computer) your connection will fail on the first install, and you will need to enter the information for the remote server as a new connection.
